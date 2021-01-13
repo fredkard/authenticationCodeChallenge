@@ -22,7 +22,7 @@ module.exports = {
             }
         } else if (authHeader.indexOf("Apikey ") >= 0) {
             const token = authHeader.split("Apikey ")
-            if (token[1] === '1234567890987654321') {
+            if (token[1] === '2562aac0ea4a9ee81673cff70613ba48') {
                 next()
             } else {
                 const bodyRes = {
