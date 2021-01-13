@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fredy",
+    "password": "Fredy50ftD3v2020",
+    "database": "fredy_db",
+    "host": "ariefdfaltah.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "fredy",
+    "password": "Fredy50ftD3v2020",
+    "database": "fredy_db",
+    "host": "ariefdfaltah.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "fredy",
+    "password": "Fredy50ftD3v2020",
+    "database": "fredy_db",
+    "host": "ariefdfaltah.com",
+    "dialect": "mysql"
+  }
+}
